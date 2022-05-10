@@ -19,7 +19,7 @@ public class LinearEquationResolver {
             System.out.println("phương trình có nghiệm x= " + answer);
         } else {
             if (b == c) {
-                System.out.println("phương trình có nghiệm x= " + 0);
+                System.out.println("phương trình vô số nghiệm" );
             } else {
                 System.out.println("phương trình vô nghiệm");
             }
